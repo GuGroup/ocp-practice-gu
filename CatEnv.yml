@@ -26,6 +26,7 @@ dependencies:
     - fairchem-data-oc
     - fairchem-demo-ocpapi
     - fairchem-applications-cattsunami
+    - ocp-practice-gu
 - pyyaml
 - tqdm
 - python-lmdb
